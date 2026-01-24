@@ -37,6 +37,8 @@
                 "-fdiagnostics-color=always",
                 "-g",
                 "${file}",
+                "-I", "${workspaceFolder}/head",
+                "-L", "${workspaceFolder}/source",
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe"
             ],
