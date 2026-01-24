@@ -1,0 +1,4 @@
+{
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": false,  // 或在终端中运行但配置清理
+}
