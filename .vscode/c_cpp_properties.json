@@ -6,8 +6,7 @@
                 "${workspaceFolder}/**",
                 "D:\\Coding\\Opencv\\build\\x64\\MinGW\\install\\include",
                 "D:\\Coding\\Opencv\\build\\x64\\MinGW\\install\\include\\opencv2",
-                "${workspaceFolder}/day02/Head",
-                "${workspaceFolder}/day02/Head/headChiild"
+                "${workspaceFolder}/day02/Head"
             ],
             "defines": [
                 "_DEBUG",
@@ -16,7 +15,7 @@
             ],
             "compilerPath": "D:\\Coding\\mingw64\\bin\\g++.exe",
             "cStandard": "c11",
-            "cppStandard": "gnu++17",
+            "cppStandard": "c++17",
             "intelliSenseMode": "windows-gcc-x64"
         }
     ],
