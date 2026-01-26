@@ -1,6 +1,6 @@
 {
     "cmake.generator": "MinGW Makefiles",
-    "cmake.cmakePath": "D:/Coding/cmake-4.2.1-windows-x86_64/bin",
+    "cmake.cmakePath": "D:/Coding/cmake-4.2.1-windows-x86_64/bin/cmake.exe",
     "cmake.configureSettings": {
         "CMAKE_MAKE_PROGRAM": "D:/Coding/mingw64/bin/mingw32-make.exe",
         "CMAKE_C_COMPILER": "D:/Coding/mingw64/bin/gcc.exe",
