@@ -1,0 +1,7 @@
+C++Projeection/MyOpencv/
+├── CMakeLists.txt
+├── include/
+│   └── MyOpencvApi.h
+└── src/
+    ├── main.cpp
+    └── MyOpencvApi.cpp
